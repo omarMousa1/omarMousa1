@@ -1,4 +1,7 @@
-<img src="[https://www.canva.com/design/DAGOPEaZiPw/WY7bpUw2e-rNgJs74WZt_w/edit?utm_content=DAGOPEaZiPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOPEaZiPw/WY7bpUw2e-rNgJs74WZt_w/edit?utm_content=DAGOPEaZiPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
+
+![code github 2](https://github.com/user-attachments/assets/fce255ad-ca6c-4ce6-9195-bdc7f9a5e568)
+
+
 <h1 align="center">Hi 👋, I'm Omar Mousa</h1>
 <h3 align="center">As a web developer, I aim to achieve the best results in web development and face the most difficult challenges. Welcome to the world of React.</h3>
 

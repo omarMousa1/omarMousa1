@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React router**
 
-- 👨‍💻 All of my projects are available at [https://omar-mousa.netlify.app/](https://omar-mousa.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://omar-mousa.netlify.app/](https://omarmousa.netlify.app/)
 
 - 💬 Ask me about **React, Hooks, Tailwind, Qt**
 
 - 📫 How to reach me **Amooor1332mousa@gmail.com**
 
-- 📄 Know about my experiences [https://omar-mousa.netlify.app/](https://omar-mousa.netlify.app/)
+- 📄 Know about my experiences [https://omar-mousa.netlify.app/](https://omarmousa.netlify.app/)
 
 - ⚡ Fun fact **It's the beginning**
 
